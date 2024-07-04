@@ -29,7 +29,6 @@ If you encounter any errors or problems during installation, please contact me t
 
 # Setup
 ```sh
-PLS DELETE FILE "DELETEME.txt" in loader/bins, dlr/release
 READ Setup.txt file
 ```
 
